@@ -12,7 +12,7 @@
   "types": "./dist/gridstack.d.ts",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gridstack/gridstack.js.git"
+    "url": "git+https://github.com/justinjxzhang/gridstack.js.git"
   },
   "funding": [
     {
